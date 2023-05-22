@@ -1,4 +1,5 @@
 #!/usr/bin/env bash
+# displays the content of the current working directory.
 
 files="$(ls)"
 for f in $files;
